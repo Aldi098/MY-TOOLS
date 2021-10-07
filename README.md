@@ -9,7 +9,7 @@ $ cd MY-TOOLS
 $ pip install -r requirements.txt
 $ python TOOLS.py
 ```
-## Feature
+## Function
 - [x] MY IP
 - [x] Informasi nomor hp
 - [x] Information ip
